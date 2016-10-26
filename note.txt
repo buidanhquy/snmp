@@ -1,0 +1,5 @@
+IP: 1.3.6.1.2.1.4.20.1.1
+Interface MAC Addr (ifPhysAddress): 1.3.6.1.2.1.2.2.1.6 
+Number of Interface (ifNumber):  1.3.6.1.2.1.2.1
+
+OID readable form:  apt-get install snmp-mibs-downloader
